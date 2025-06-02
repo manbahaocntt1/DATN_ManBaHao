@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\models\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\models\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\data\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\data\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\controllers\\tourbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\controllers\\tourbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\repositories\\itourbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\repositories\\itourbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\repositories\\implementations\\tourbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\repositories\\implementations\\tourbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\services\\tourbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\services\\tourbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\models\\dtos\\tourbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\models\\dtos\\tourbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\entities\\tourbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\entities\\tourbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|c:\\users\\manba\\documents\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\travelbackend\\travelbackend\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6FE121-C0BB-4F62-9E88-EE2558341F53}|TravelBackend\\TravelBackend.csproj|solutionrelative:travelbackend\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "TravelBackend\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:37:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Models\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Models\\DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Models\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "TravelBackend\\Models\\DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:36:43.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Data\\TravelDbContext.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Data\\TravelDbContext.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Data\\TravelDbContext.cs",
+              "RelativeToolTip": "TravelBackend\\Data\\TravelDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:36:16.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Entities\\Transaction.cs",
+              "RelativeToolTip": "TravelBackend\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:35:36.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TourController.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Controllers\\TourController.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Controllers\\TourController.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Controllers\\TourController.cs",
+              "RelativeToolTip": "TravelBackend\\Controllers\\TourController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:38:20.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Models\\DTOs\\TourBookingDto.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Models\\DTOs\\TourBookingDto.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Models\\DTOs\\TourBookingDto.cs",
+              "RelativeToolTip": "TravelBackend\\Models\\DTOs\\TourBookingDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:10:53.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITourBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\ITourBookingRepository.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Repositories\\ITourBookingRepository.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\ITourBookingRepository.cs",
+              "RelativeToolTip": "TravelBackend\\Repositories\\ITourBookingRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:40:28.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TourBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Services\\TourBookingService.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Services\\TourBookingService.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Services\\TourBookingService.cs",
+              "RelativeToolTip": "TravelBackend\\Services\\TourBookingService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:54:09.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\Implementations\\TourBookingRepository.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Repositories\\Implementations\\TourBookingRepository.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\Implementations\\TourBookingRepository.cs",
+              "RelativeToolTip": "TravelBackend\\Repositories\\Implementations\\TourBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:54:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TourBooking.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Entities\\TourBooking.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Entities\\TourBooking.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Entities\\TourBooking.cs",
+              "RelativeToolTip": "TravelBackend\\Entities\\TourBooking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:54:00.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Controllers\\TourBookingController.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Controllers\\TourBookingController.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Controllers\\TourBookingController.cs",
+              "RelativeToolTip": "TravelBackend\\Controllers\\TourBookingController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:53:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "TravelBackend\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\manba\\Documents\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\TravelBackend\\TravelBackend\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "TravelBackend\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:37:24.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5378 @@
+{
+  "Version": 1,
+  "Hash": "MW3orFVdr3qoFsz1B59qOuAL9gJAyDMId/HeBZvOtEQ=",
+  "Source": "TravelBackend",
+  "BasePath": "_content/TravelBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TravelBackend\\wwwroot",
+      "Source": "TravelBackend",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\0788d226-49c1-42c7-aca2-2f74eff9c891.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/0788d226-49c1-42c7-aca2-2f74eff9c891#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "at0znyrfyr",
+      "Integrity": "3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\0788d226-49c1-42c7-aca2-2f74eff9c891.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/434d85e6-4dcc-4d5a-9197-999f0cdfc3b4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx7tifi3y1",
+      "Integrity": "mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\57a2481d-9803-453f-95a6-9d9e9497e769.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/57a2481d-9803-453f-95a6-9d9e9497e769#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx7tifi3y1",
+      "Integrity": "mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\57a2481d-9803-453f-95a6-9d9e9497e769.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\6306cfb7-bb37-4159-aea7-7b9df1d72a18.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/6306cfb7-bb37-4159-aea7-7b9df1d72a18#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx7tifi3y1",
+      "Integrity": "mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\6306cfb7-bb37-4159-aea7-7b9df1d72a18.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\90b328b7-3b7e-4f09-bbab-1de681179220.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/90b328b7-3b7e-4f09-bbab-1de681179220#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx7tifi3y1",
+      "Integrity": "mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\90b328b7-3b7e-4f09-bbab-1de681179220.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\99d6d51c-48e1-42bb-a13e-41558d4c97cc.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/99d6d51c-48e1-42bb-a13e-41558d4c97cc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "at0znyrfyr",
+      "Integrity": "3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\99d6d51c-48e1-42bb-a13e-41558d4c97cc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar1.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/avartar1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx7tifi3y1",
+      "Integrity": "mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\avartar1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar2.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/avartar2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "at0znyrfyr",
+      "Integrity": "3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\avartar2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar3.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/avartar3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qh3a8au0st",
+      "Integrity": "LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\avartar3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx7tifi3y1",
+      "Integrity": "mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\fc60a2a1-5bba-4257-8389-2c039b1c919c.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/avatars/fc60a2a1-5bba-4257-8389-2c039b1c919c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qh3a8au0st",
+      "Integrity": "LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\avatars\\fc60a2a1-5bba-4257-8389-2c039b1c919c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\baico.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/baico#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1654s9iqov",
+      "Integrity": "KfOlFlBJ9TR5XsycBgp55Y2ZKrjiyV4eD1gvZFR7oiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\baico.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\banhtom.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/banhtom#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ez1wu81lph",
+      "Integrity": "9t9b/mSOe1bATqnQ2Nh39EgoyIvgiJjqtcC4CyyDGzQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\banhtom.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\battrang.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/battrang#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vbihdjww9a",
+      "Integrity": "9S+x2MX0xOmG5rfzwECcUQ8X/Oo0lrtwgF9+Q2NpxnI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\battrang.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\cafehotay.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/cafehotay#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akv2w98gni",
+      "Integrity": "to/OWD9SSA6zm9jdfwm1ihMTFeizalvKHH4F4YifN+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\cafehotay.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\choamthuc.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/choamthuc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gh8jyj8cs6",
+      "Integrity": "tL/GtKqhOFU6zcxkdpACCRCP+O2obJek7DbpYDuCHfQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\choamthuc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\langbac.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/langbac#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mokgtizqmk",
+      "Integrity": "tkEqkplhveN5n/4iZhyABxgWA+BZE8eusfpSBjWbrf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\langbac.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\longbien.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/longbien#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lcclkigb47",
+      "Integrity": "xQ0Nb1Lp0DFOOVdwiLsnrzthrEODUN5dKKuttR7hSnI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\longbien.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\nhahatlon.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/nhahatlon#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gnew05q5hg",
+      "Integrity": "1Nmzodz6nzud8yybVA7cpZsPcghS5KoEl2KUgw30lEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\nhahatlon.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\phoco.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/phoco#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "36g56xd3ng",
+      "Integrity": "5aTNIdkPq3nWN6jfLy1nf5IUgG6WJwfXnk7/K7qMXuM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\phoco.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\photayho.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/photayho#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4mlevwqqx1",
+      "Integrity": "FHy3ETvOgnasKclu6Bigq7JZyMWcfm7C2c8yp2Q9xeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\photayho.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\photoco.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/photoco#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rfasahmtae",
+      "Integrity": "1/FDihMYNCMoMuulg4tvL9Mq9zP7PsVV7SDGqkVCIcQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\photoco.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\tranquoc.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/tranquoc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "62nlallqik",
+      "Integrity": "AgrAM6G7LDyYMawVkUeuuiuCTieZEC0EmTmhkBf9ZUk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\tranquoc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\vanmieu.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/vanmieu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ovpyke3wue",
+      "Integrity": "fIxm2zOH5vKiP9yQbqlLgZm5CM2gpHVv+5rMOH5YNwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\vanmieu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\vanphuc.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/vanphuc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fckk1sjcar",
+      "Integrity": "/2QRNaxDb4IfPShAa7bDKOz7hvS+zGB3YZJzm88HJlA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\vanphuc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\xuonggom.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/places/xuonggom#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h651sso3fw",
+      "Integrity": "eZxLSTOE1ERl0+GM4TVvkYOULBp6E5gXJDpTH6vPQnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\places\\xuonggom.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft1.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/craft1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fghapsqhxj",
+      "Integrity": "IQA3Ri5KJ2akUh1P1GECgmygtNww/VaDz8neZOPSMSQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\craft1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft2.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/craft2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fnq1hri2o1",
+      "Integrity": "K9qbHv48WlpBR6EHzDx/d89TAZ0kUppLPwzfw54RhO4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\craft2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft3.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/craft3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ap6ja6nxzd",
+      "Integrity": "UoUK08hUTFLWE1u9Oz+4MmDNhW/kd3Lba0mTjEd88As=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\craft3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft4.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/craft4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r2k7gxebm0",
+      "Integrity": "ncqLjxrojJD2OzE+U0xs3oddlTe+6r+vFkr9rOFrNno=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\craft4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft5.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/craft5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ay6yym16wc",
+      "Integrity": "Tp7RYO8dRWL4zVOhjTi4X8ztdzwFpjQTv5TXbG+bjig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\craft5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle1.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/cycle1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jetn6hfndq",
+      "Integrity": "ZbEBabG6Aq/ARf0WCYiWMfKpuddxEYJ4GkFu/9WOmP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\cycle1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle2.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/cycle2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujikwi9z1a",
+      "Integrity": "6pIVj77SBcEfKLVnO6zISFjEJLluIaLfNMeP5ckppRg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\cycle2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle3.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/cycle3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h0tib4ipqt",
+      "Integrity": "YT7DVmh8mIpqetGFmrmXcc4lZuAduMXnPO7tqF1Jrgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\cycle3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle4.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/cycle4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zr35biuss0",
+      "Integrity": "oQrEIjTuJk71ICowBfUacYaqDjWDOgqukRFuNoFHFeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\cycle4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle5.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/cycle5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu9sw52fy2",
+      "Integrity": "KquUIPFjB8fLXkrCpI537IiulwxHiVZdCpbEFX+yWl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\cycle5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\default.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/default#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdqupae3gr",
+      "Integrity": "710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\default.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour1.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/foodtour1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "db2tc79a2j",
+      "Integrity": "BzcpFgQBhkyVfz1TmT8EG8t5qQlnpbm+yHP3SD106Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\foodtour1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour2.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/foodtour2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fcyp38syfr",
+      "Integrity": "4UI2RHtUiUPasVea8tmaNg4myA92WhZJnZXxRCSpgVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\foodtour2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour3.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/foodtour3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "boexjzkgri",
+      "Integrity": "dZioiG0CyCCLLsBVf5cuFLqLctNxRZKiJ4EU8D+ZN4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\foodtour3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour4.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/foodtour4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8cxmkogtnj",
+      "Integrity": "SIahyh6CLntzo9J3kM7MWEuvFtFRl5n3sVnh15p55Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\foodtour4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour5.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/foodtour5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfa8zsxk51",
+      "Integrity": "0OmXo6C0PO8S+eD01fr0lO1q7VMLWKAEjdDbc28o6OU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\foodtour5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_1.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/hanoi1_1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fke7en2gfk",
+      "Integrity": "gRBeASXeooWt83KGsY36GjzbHHOh2OqOcz9bRFTUUFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\hanoi1_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_2.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/hanoi1_2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgls8l9i6p",
+      "Integrity": "q+dieoJhaMotwm15HDHRT0joZ4nNAytUMFAel6ZgftI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\hanoi1_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_3.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/hanoi1_3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdqupae3gr",
+      "Integrity": "710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\hanoi1_3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_4.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/hanoi1_4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ykfl2rpvwg",
+      "Integrity": "IiCEIsqRE41IBmJKFgXlge7hoPJcmBXd+JyvffCm6ww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\hanoi1_4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_5.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/hanoi1_5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "epmnrd9i5y",
+      "Integrity": "sjGEFif5E5VKX9U7K0luY7AceWpKX/HWPk9Zb83c53Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\hanoi1_5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night1.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/night1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfvnln26ah",
+      "Integrity": "KXDOOLKaEkGc11AIyYN/moT51agh9t9ZJcTkfCUG3WM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\night1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night2.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/night2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wt2hopi2cb",
+      "Integrity": "lOSQi6hkCUEt1T0iHlHStbIb+cCYH4gf+IfIFef7HMM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\night2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night3.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/night3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8bc30xed0z",
+      "Integrity": "7Fqmbt0CStbji58J0YXOh95ZH9J+XM+FXka95Vgc7Oo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\night3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night4.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/night4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j1x5wzszs8",
+      "Integrity": "eb2+JoriTi7kAPFxl/AJJgD4N7+jWtSFLoM1vSRFzrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\night4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night5.jpg",
+      "SourceId": "TravelBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\",
+      "BasePath": "_content/TravelBackend",
+      "RelativePath": "images/tours/night5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2ub2d6c9u",
+      "Integrity": "A53D+cNt5zPsV4/d9XJB8DEROTuj1qHOQBwm/+mH+iA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tours\\night5.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/avatars/0788d226-49c1-42c7-aca2-2f74eff9c891.at0znyrfyr.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\0788d226-49c1-42c7-aca2-2f74eff9c891.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 08:40:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at0znyrfyr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/0788d226-49c1-42c7-aca2-2f74eff9c891.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/0788d226-49c1-42c7-aca2-2f74eff9c891.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\0788d226-49c1-42c7-aca2-2f74eff9c891.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 08:40:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 08:34:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.kx7tifi3y1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 08:34:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx7tifi3y1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/434d85e6-4dcc-4d5a-9197-999f0cdfc3b4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/57a2481d-9803-453f-95a6-9d9e9497e769.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\57a2481d-9803-453f-95a6-9d9e9497e769.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 06:52:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/57a2481d-9803-453f-95a6-9d9e9497e769.kx7tifi3y1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\57a2481d-9803-453f-95a6-9d9e9497e769.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 06:52:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx7tifi3y1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/57a2481d-9803-453f-95a6-9d9e9497e769.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/6306cfb7-bb37-4159-aea7-7b9df1d72a18.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\6306cfb7-bb37-4159-aea7-7b9df1d72a18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 08:17:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/6306cfb7-bb37-4159-aea7-7b9df1d72a18.kx7tifi3y1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\6306cfb7-bb37-4159-aea7-7b9df1d72a18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 08:17:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx7tifi3y1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/6306cfb7-bb37-4159-aea7-7b9df1d72a18.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/90b328b7-3b7e-4f09-bbab-1de681179220.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\90b328b7-3b7e-4f09-bbab-1de681179220.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 07:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/90b328b7-3b7e-4f09-bbab-1de681179220.kx7tifi3y1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\90b328b7-3b7e-4f09-bbab-1de681179220.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 07:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx7tifi3y1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/90b328b7-3b7e-4f09-bbab-1de681179220.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/99d6d51c-48e1-42bb-a13e-41558d4c97cc.at0znyrfyr.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\99d6d51c-48e1-42bb-a13e-41558d4c97cc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 15:27:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at0znyrfyr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/99d6d51c-48e1-42bb-a13e-41558d4c97cc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/99d6d51c-48e1-42bb-a13e-41558d4c97cc.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\99d6d51c-48e1-42bb-a13e-41558d4c97cc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 15:27:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/avartar1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 05:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/avartar1.kx7tifi3y1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 05:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx7tifi3y1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/avartar1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/avartar2.at0znyrfyr.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 05:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "at0znyrfyr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/avartar2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/avartar2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 05:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3p0qSs4jjxk2m9vR8w7ISP50JxoqeXM37jf/FFxWvvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/avartar3.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 05:50:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/avartar3.qh3a8au0st.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\avartar3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 05:50:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qh3a8au0st"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/avartar3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 08:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.kx7tifi3y1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 08:04:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx7tifi3y1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/dfd0f0d4-4ea7-4e4c-9588-c4e045bacc20.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGR+4ZONmpWYe+9T3Dgz6JT4ARytMDdGc9QBI4hWNmY="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/fc60a2a1-5bba-4257-8389-2c039b1c919c.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\fc60a2a1-5bba-4257-8389-2c039b1c919c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 15:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/avatars/fc60a2a1-5bba-4257-8389-2c039b1c919c.qh3a8au0st.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\avatars\\fc60a2a1-5bba-4257-8389-2c039b1c919c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 15:37:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qh3a8au0st"
+        },
+        {
+          "Name": "label",
+          "Value": "images/avatars/fc60a2a1-5bba-4257-8389-2c039b1c919c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoCiuPGkfPEgm0NyG00WMj5ARYUe7PUQG2RjGP1LPrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/baico.1654s9iqov.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\baico.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KfOlFlBJ9TR5XsycBgp55Y2ZKrjiyV4eD1gvZFR7oiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1654s9iqov"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/baico.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfOlFlBJ9TR5XsycBgp55Y2ZKrjiyV4eD1gvZFR7oiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/baico.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\baico.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KfOlFlBJ9TR5XsycBgp55Y2ZKrjiyV4eD1gvZFR7oiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfOlFlBJ9TR5XsycBgp55Y2ZKrjiyV4eD1gvZFR7oiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/banhtom.ez1wu81lph.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\banhtom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9t9b/mSOe1bATqnQ2Nh39EgoyIvgiJjqtcC4CyyDGzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ez1wu81lph"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/banhtom.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9t9b/mSOe1bATqnQ2Nh39EgoyIvgiJjqtcC4CyyDGzQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/banhtom.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\banhtom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9t9b/mSOe1bATqnQ2Nh39EgoyIvgiJjqtcC4CyyDGzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9t9b/mSOe1bATqnQ2Nh39EgoyIvgiJjqtcC4CyyDGzQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/battrang.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\battrang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9S+x2MX0xOmG5rfzwECcUQ8X/Oo0lrtwgF9+Q2NpxnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:40:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9S+x2MX0xOmG5rfzwECcUQ8X/Oo0lrtwgF9+Q2NpxnI="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/battrang.vbihdjww9a.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\battrang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9S+x2MX0xOmG5rfzwECcUQ8X/Oo0lrtwgF9+Q2NpxnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:40:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbihdjww9a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/battrang.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9S+x2MX0xOmG5rfzwECcUQ8X/Oo0lrtwgF9+Q2NpxnI="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/cafehotay.akv2w98gni.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\cafehotay.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"to/OWD9SSA6zm9jdfwm1ihMTFeizalvKHH4F4YifN+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:50:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akv2w98gni"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/cafehotay.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-to/OWD9SSA6zm9jdfwm1ihMTFeizalvKHH4F4YifN+I="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/cafehotay.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\cafehotay.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"to/OWD9SSA6zm9jdfwm1ihMTFeizalvKHH4F4YifN+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:50:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-to/OWD9SSA6zm9jdfwm1ihMTFeizalvKHH4F4YifN+I="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/choamthuc.gh8jyj8cs6.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\choamthuc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tL/GtKqhOFU6zcxkdpACCRCP+O2obJek7DbpYDuCHfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gh8jyj8cs6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/choamthuc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tL/GtKqhOFU6zcxkdpACCRCP+O2obJek7DbpYDuCHfQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/choamthuc.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\choamthuc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tL/GtKqhOFU6zcxkdpACCRCP+O2obJek7DbpYDuCHfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:49:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tL/GtKqhOFU6zcxkdpACCRCP+O2obJek7DbpYDuCHfQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/langbac.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\langbac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tkEqkplhveN5n/4iZhyABxgWA+BZE8eusfpSBjWbrf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:32:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tkEqkplhveN5n/4iZhyABxgWA+BZE8eusfpSBjWbrf4="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/langbac.mokgtizqmk.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\langbac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tkEqkplhveN5n/4iZhyABxgWA+BZE8eusfpSBjWbrf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:32:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mokgtizqmk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/langbac.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tkEqkplhveN5n/4iZhyABxgWA+BZE8eusfpSBjWbrf4="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/longbien.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\longbien.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xQ0Nb1Lp0DFOOVdwiLsnrzthrEODUN5dKKuttR7hSnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:35:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xQ0Nb1Lp0DFOOVdwiLsnrzthrEODUN5dKKuttR7hSnI="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/longbien.lcclkigb47.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\longbien.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xQ0Nb1Lp0DFOOVdwiLsnrzthrEODUN5dKKuttR7hSnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:35:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lcclkigb47"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/longbien.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xQ0Nb1Lp0DFOOVdwiLsnrzthrEODUN5dKKuttR7hSnI="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/nhahatlon.gnew05q5hg.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\nhahatlon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Nmzodz6nzud8yybVA7cpZsPcghS5KoEl2KUgw30lEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:36:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnew05q5hg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/nhahatlon.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Nmzodz6nzud8yybVA7cpZsPcghS5KoEl2KUgw30lEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/nhahatlon.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\nhahatlon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Nmzodz6nzud8yybVA7cpZsPcghS5KoEl2KUgw30lEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:36:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Nmzodz6nzud8yybVA7cpZsPcghS5KoEl2KUgw30lEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/phoco.36g56xd3ng.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\phoco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aTNIdkPq3nWN6jfLy1nf5IUgG6WJwfXnk7/K7qMXuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "36g56xd3ng"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/phoco.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aTNIdkPq3nWN6jfLy1nf5IUgG6WJwfXnk7/K7qMXuM="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/phoco.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\phoco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aTNIdkPq3nWN6jfLy1nf5IUgG6WJwfXnk7/K7qMXuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aTNIdkPq3nWN6jfLy1nf5IUgG6WJwfXnk7/K7qMXuM="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/photayho.4mlevwqqx1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\photayho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHy3ETvOgnasKclu6Bigq7JZyMWcfm7C2c8yp2Q9xeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mlevwqqx1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/photayho.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHy3ETvOgnasKclu6Bigq7JZyMWcfm7C2c8yp2Q9xeY="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/photayho.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\photayho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHy3ETvOgnasKclu6Bigq7JZyMWcfm7C2c8yp2Q9xeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHy3ETvOgnasKclu6Bigq7JZyMWcfm7C2c8yp2Q9xeY="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/photoco.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\photoco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1/FDihMYNCMoMuulg4tvL9Mq9zP7PsVV7SDGqkVCIcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:37:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1/FDihMYNCMoMuulg4tvL9Mq9zP7PsVV7SDGqkVCIcQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/photoco.rfasahmtae.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\photoco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1/FDihMYNCMoMuulg4tvL9Mq9zP7PsVV7SDGqkVCIcQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:37:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rfasahmtae"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/photoco.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1/FDihMYNCMoMuulg4tvL9Mq9zP7PsVV7SDGqkVCIcQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/tranquoc.62nlallqik.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\tranquoc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgrAM6G7LDyYMawVkUeuuiuCTieZEC0EmTmhkBf9ZUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62nlallqik"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/tranquoc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AgrAM6G7LDyYMawVkUeuuiuCTieZEC0EmTmhkBf9ZUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/tranquoc.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\tranquoc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgrAM6G7LDyYMawVkUeuuiuCTieZEC0EmTmhkBf9ZUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AgrAM6G7LDyYMawVkUeuuiuCTieZEC0EmTmhkBf9ZUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/vanmieu.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\vanmieu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fIxm2zOH5vKiP9yQbqlLgZm5CM2gpHVv+5rMOH5YNwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:32:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fIxm2zOH5vKiP9yQbqlLgZm5CM2gpHVv+5rMOH5YNwQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/vanmieu.ovpyke3wue.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\vanmieu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fIxm2zOH5vKiP9yQbqlLgZm5CM2gpHVv+5rMOH5YNwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:32:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ovpyke3wue"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/vanmieu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fIxm2zOH5vKiP9yQbqlLgZm5CM2gpHVv+5rMOH5YNwQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/vanphuc.fckk1sjcar.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\vanphuc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2QRNaxDb4IfPShAa7bDKOz7hvS+zGB3YZJzm88HJlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:41:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fckk1sjcar"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/vanphuc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2QRNaxDb4IfPShAa7bDKOz7hvS+zGB3YZJzm88HJlA="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/vanphuc.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\vanphuc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2QRNaxDb4IfPShAa7bDKOz7hvS+zGB3YZJzm88HJlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:41:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2QRNaxDb4IfPShAa7bDKOz7hvS+zGB3YZJzm88HJlA="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/xuonggom.h651sso3fw.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\xuonggom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZxLSTOE1ERl0+GM4TVvkYOULBp6E5gXJDpTH6vPQnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h651sso3fw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/places/xuonggom.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZxLSTOE1ERl0+GM4TVvkYOULBp6E5gXJDpTH6vPQnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/places/xuonggom.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\places\\xuonggom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZxLSTOE1ERl0+GM4TVvkYOULBp6E5gXJDpTH6vPQnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZxLSTOE1ERl0+GM4TVvkYOULBp6E5gXJDpTH6vPQnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft1.fghapsqhxj.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IQA3Ri5KJ2akUh1P1GECgmygtNww/VaDz8neZOPSMSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fghapsqhxj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/craft1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IQA3Ri5KJ2akUh1P1GECgmygtNww/VaDz8neZOPSMSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IQA3Ri5KJ2akUh1P1GECgmygtNww/VaDz8neZOPSMSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:38:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IQA3Ri5KJ2akUh1P1GECgmygtNww/VaDz8neZOPSMSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft2.fnq1hri2o1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K9qbHv48WlpBR6EHzDx/d89TAZ0kUppLPwzfw54RhO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fnq1hri2o1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/craft2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K9qbHv48WlpBR6EHzDx/d89TAZ0kUppLPwzfw54RhO4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K9qbHv48WlpBR6EHzDx/d89TAZ0kUppLPwzfw54RhO4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K9qbHv48WlpBR6EHzDx/d89TAZ0kUppLPwzfw54RhO4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft3.ap6ja6nxzd.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UoUK08hUTFLWE1u9Oz+4MmDNhW/kd3Lba0mTjEd88As=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:39:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap6ja6nxzd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/craft3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UoUK08hUTFLWE1u9Oz+4MmDNhW/kd3Lba0mTjEd88As="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft3.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UoUK08hUTFLWE1u9Oz+4MmDNhW/kd3Lba0mTjEd88As=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:39:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UoUK08hUTFLWE1u9Oz+4MmDNhW/kd3Lba0mTjEd88As="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft4.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncqLjxrojJD2OzE+U0xs3oddlTe+6r+vFkr9rOFrNno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:40:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncqLjxrojJD2OzE+U0xs3oddlTe+6r+vFkr9rOFrNno="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft4.r2k7gxebm0.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncqLjxrojJD2OzE+U0xs3oddlTe+6r+vFkr9rOFrNno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:40:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r2k7gxebm0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/craft4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncqLjxrojJD2OzE+U0xs3oddlTe+6r+vFkr9rOFrNno="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft5.ay6yym16wc.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tp7RYO8dRWL4zVOhjTi4X8ztdzwFpjQTv5TXbG+bjig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:40:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ay6yym16wc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/craft5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tp7RYO8dRWL4zVOhjTi4X8ztdzwFpjQTv5TXbG+bjig="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/craft5.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\craft5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tp7RYO8dRWL4zVOhjTi4X8ztdzwFpjQTv5TXbG+bjig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:40:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tp7RYO8dRWL4zVOhjTi4X8ztdzwFpjQTv5TXbG+bjig="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle1.jetn6hfndq.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZbEBabG6Aq/ARf0WCYiWMfKpuddxEYJ4GkFu/9WOmP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jetn6hfndq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/cycle1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZbEBabG6Aq/ARf0WCYiWMfKpuddxEYJ4GkFu/9WOmP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZbEBabG6Aq/ARf0WCYiWMfKpuddxEYJ4GkFu/9WOmP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZbEBabG6Aq/ARf0WCYiWMfKpuddxEYJ4GkFu/9WOmP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6pIVj77SBcEfKLVnO6zISFjEJLluIaLfNMeP5ckppRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:43:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6pIVj77SBcEfKLVnO6zISFjEJLluIaLfNMeP5ckppRg="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle2.ujikwi9z1a.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6pIVj77SBcEfKLVnO6zISFjEJLluIaLfNMeP5ckppRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:43:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujikwi9z1a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/cycle2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6pIVj77SBcEfKLVnO6zISFjEJLluIaLfNMeP5ckppRg="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle3.h0tib4ipqt.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YT7DVmh8mIpqetGFmrmXcc4lZuAduMXnPO7tqF1Jrgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h0tib4ipqt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/cycle3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YT7DVmh8mIpqetGFmrmXcc4lZuAduMXnPO7tqF1Jrgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle3.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YT7DVmh8mIpqetGFmrmXcc4lZuAduMXnPO7tqF1Jrgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YT7DVmh8mIpqetGFmrmXcc4lZuAduMXnPO7tqF1Jrgo="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle4.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oQrEIjTuJk71ICowBfUacYaqDjWDOgqukRFuNoFHFeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oQrEIjTuJk71ICowBfUacYaqDjWDOgqukRFuNoFHFeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle4.zr35biuss0.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oQrEIjTuJk71ICowBfUacYaqDjWDOgqukRFuNoFHFeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr35biuss0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/cycle4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oQrEIjTuJk71ICowBfUacYaqDjWDOgqukRFuNoFHFeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle5.eu9sw52fy2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KquUIPFjB8fLXkrCpI537IiulwxHiVZdCpbEFX+yWl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eu9sw52fy2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/cycle5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KquUIPFjB8fLXkrCpI537IiulwxHiVZdCpbEFX+yWl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/cycle5.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\cycle5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KquUIPFjB8fLXkrCpI537IiulwxHiVZdCpbEFX+yWl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KquUIPFjB8fLXkrCpI537IiulwxHiVZdCpbEFX+yWl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/default.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\default.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/default.tdqupae3gr.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\default.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdqupae3gr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/default.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour1.db2tc79a2j.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BzcpFgQBhkyVfz1TmT8EG8t5qQlnpbm+yHP3SD106Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "db2tc79a2j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/foodtour1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BzcpFgQBhkyVfz1TmT8EG8t5qQlnpbm+yHP3SD106Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BzcpFgQBhkyVfz1TmT8EG8t5qQlnpbm+yHP3SD106Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BzcpFgQBhkyVfz1TmT8EG8t5qQlnpbm+yHP3SD106Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour2.fcyp38syfr.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UI2RHtUiUPasVea8tmaNg4myA92WhZJnZXxRCSpgVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcyp38syfr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/foodtour2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4UI2RHtUiUPasVea8tmaNg4myA92WhZJnZXxRCSpgVY="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4UI2RHtUiUPasVea8tmaNg4myA92WhZJnZXxRCSpgVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4UI2RHtUiUPasVea8tmaNg4myA92WhZJnZXxRCSpgVY="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour3.boexjzkgri.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZioiG0CyCCLLsBVf5cuFLqLctNxRZKiJ4EU8D+ZN4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:47:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "boexjzkgri"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/foodtour3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZioiG0CyCCLLsBVf5cuFLqLctNxRZKiJ4EU8D+ZN4g="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour3.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZioiG0CyCCLLsBVf5cuFLqLctNxRZKiJ4EU8D+ZN4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:47:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZioiG0CyCCLLsBVf5cuFLqLctNxRZKiJ4EU8D+ZN4g="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour4.8cxmkogtnj.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SIahyh6CLntzo9J3kM7MWEuvFtFRl5n3sVnh15p55Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:48:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8cxmkogtnj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/foodtour4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SIahyh6CLntzo9J3kM7MWEuvFtFRl5n3sVnh15p55Us="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour4.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SIahyh6CLntzo9J3kM7MWEuvFtFRl5n3sVnh15p55Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:48:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SIahyh6CLntzo9J3kM7MWEuvFtFRl5n3sVnh15p55Us="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour5.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0OmXo6C0PO8S+eD01fr0lO1q7VMLWKAEjdDbc28o6OU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:48:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0OmXo6C0PO8S+eD01fr0lO1q7VMLWKAEjdDbc28o6OU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/foodtour5.kfa8zsxk51.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\foodtour5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0OmXo6C0PO8S+eD01fr0lO1q7VMLWKAEjdDbc28o6OU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:48:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfa8zsxk51"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/foodtour5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0OmXo6C0PO8S+eD01fr0lO1q7VMLWKAEjdDbc28o6OU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_1.fke7en2gfk.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1457688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gRBeASXeooWt83KGsY36GjzbHHOh2OqOcz9bRFTUUFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fke7en2gfk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/hanoi1_1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gRBeASXeooWt83KGsY36GjzbHHOh2OqOcz9bRFTUUFs="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1457688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gRBeASXeooWt83KGsY36GjzbHHOh2OqOcz9bRFTUUFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gRBeASXeooWt83KGsY36GjzbHHOh2OqOcz9bRFTUUFs="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q+dieoJhaMotwm15HDHRT0joZ4nNAytUMFAel6ZgftI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q+dieoJhaMotwm15HDHRT0joZ4nNAytUMFAel6ZgftI="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_2.rgls8l9i6p.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q+dieoJhaMotwm15HDHRT0joZ4nNAytUMFAel6ZgftI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgls8l9i6p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/hanoi1_2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q+dieoJhaMotwm15HDHRT0joZ4nNAytUMFAel6ZgftI="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_3.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_3.tdqupae3gr.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdqupae3gr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/hanoi1_3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-710lICrsIMLVIaauwiNYgW5R1aPYwfWismDvTWXa9tg="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_4.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IiCEIsqRE41IBmJKFgXlge7hoPJcmBXd+JyvffCm6ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:30:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IiCEIsqRE41IBmJKFgXlge7hoPJcmBXd+JyvffCm6ww="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_4.ykfl2rpvwg.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IiCEIsqRE41IBmJKFgXlge7hoPJcmBXd+JyvffCm6ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:30:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ykfl2rpvwg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/hanoi1_4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IiCEIsqRE41IBmJKFgXlge7hoPJcmBXd+JyvffCm6ww="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_5.epmnrd9i5y.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sjGEFif5E5VKX9U7K0luY7AceWpKX/HWPk9Zb83c53Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "epmnrd9i5y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/hanoi1_5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sjGEFif5E5VKX9U7K0luY7AceWpKX/HWPk9Zb83c53Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/hanoi1_5.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\hanoi1_5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sjGEFif5E5VKX9U7K0luY7AceWpKX/HWPk9Zb83c53Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sjGEFif5E5VKX9U7K0luY7AceWpKX/HWPk9Zb83c53Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night1.bfvnln26ah.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXDOOLKaEkGc11AIyYN/moT51agh9t9ZJcTkfCUG3WM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:33:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfvnln26ah"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/night1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXDOOLKaEkGc11AIyYN/moT51agh9t9ZJcTkfCUG3WM="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night1.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXDOOLKaEkGc11AIyYN/moT51agh9t9ZJcTkfCUG3WM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:33:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXDOOLKaEkGc11AIyYN/moT51agh9t9ZJcTkfCUG3WM="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night2.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lOSQi6hkCUEt1T0iHlHStbIb+cCYH4gf+IfIFef7HMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:33:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lOSQi6hkCUEt1T0iHlHStbIb+cCYH4gf+IfIFef7HMM="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night2.wt2hopi2cb.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lOSQi6hkCUEt1T0iHlHStbIb+cCYH4gf+IfIFef7HMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:33:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wt2hopi2cb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/night2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lOSQi6hkCUEt1T0iHlHStbIb+cCYH4gf+IfIFef7HMM="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night3.8bc30xed0z.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Fqmbt0CStbji58J0YXOh95ZH9J+XM+FXka95Vgc7Oo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8bc30xed0z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/night3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Fqmbt0CStbji58J0YXOh95ZH9J+XM+FXka95Vgc7Oo="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night3.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Fqmbt0CStbji58J0YXOh95ZH9J+XM+FXka95Vgc7Oo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:34:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Fqmbt0CStbji58J0YXOh95ZH9J+XM+FXka95Vgc7Oo="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night4.j1x5wzszs8.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eb2+JoriTi7kAPFxl/AJJgD4N7+jWtSFLoM1vSRFzrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:34:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j1x5wzszs8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/night4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eb2+JoriTi7kAPFxl/AJJgD4N7+jWtSFLoM1vSRFzrU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night4.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eb2+JoriTi7kAPFxl/AJJgD4N7+jWtSFLoM1vSRFzrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:34:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eb2+JoriTi7kAPFxl/AJJgD4N7+jWtSFLoM1vSRFzrU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night5.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A53D+cNt5zPsV4/d9XJB8DEROTuj1qHOQBwm/+mH+iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:34:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A53D+cNt5zPsV4/d9XJB8DEROTuj1qHOQBwm/+mH+iA="
+        }
+      ]
+    },
+    {
+      "Route": "images/tours/night5.l2ub2d6c9u.jpg",
+      "AssetFile": "C:\\Users\\manba\\Documents\\Đồ án tốt nghiệp\\TravelBackend\\TravelBackend\\wwwroot\\images\\tours\\night5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A53D+cNt5zPsV4/d9XJB8DEROTuj1qHOQBwm/+mH+iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 09:34:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2ub2d6c9u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tours/night5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A53D+cNt5zPsV4/d9XJB8DEROTuj1qHOQBwm/+mH+iA="
+        }
+      ]
+    }
+  ]
+}
