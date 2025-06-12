@@ -1,0 +1,165 @@
+/* Main container */
+.my-bookings-page {
+  max-width: 950px;
+  margin: 48px auto 60px auto;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 10px 32px rgba(60,120,200,0.13);
+  overflow: hidden;
+  padding: 36px 24px 40px 24px;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+}
+
+/* Title */
+.my-bookings-title {
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: #204283;
+  margin-bottom: 30px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+/* Booking list */
+.booking-list {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+/* Each booking card */
+.booking-card {
+  background: #f9fafb;
+  border-radius: 16px;
+  box-shadow: 0 3px 18px rgba(60,120,180,0.06);
+  display: flex;
+  gap: 28px;
+  padding: 22px 18px;
+  align-items: flex-start;
+  transition: box-shadow 0.15s;
+  border: 1.5px solid #ecf1f7;
+}
+
+.booking-card:hover {
+  box-shadow: 0 10px 32px rgba(60,120,200,0.13);
+}
+
+.booking-img {
+  width: 120px;
+  height: 92px;
+  border-radius: 12px;
+  object-fit: cover;
+  background: #e5eaf0;
+  border: 1px solid #e6ecf2;
+}
+
+.booking-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.booking-title {
+  font-size: 1.18rem;
+  font-weight: 600;
+  color: #184b87;
+  margin-bottom: 2px;
+}
+
+.booking-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  font-size: 1.03rem;
+  color: #456197;
+}
+
+.booking-label {
+  color: #7ba7db;
+  font-weight: 500;
+  margin-right: 4px;
+}
+
+.booking-date {
+  font-size: 1rem;
+  color: #406182;
+  font-weight: 500;
+  margin-top: 6px;
+}
+
+.booking-price {
+  color: #0e87d5;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.booking-status {
+  font-weight: 700;
+  padding: 4px 16px;
+  border-radius: 10px;
+  font-size: 0.98rem;
+  margin-left: 8px;
+}
+
+.booking-status.paid {
+  background: #e4fbe6;
+  color: #1ca240;
+  border: 1.2px solid #84e2a8;
+}
+.booking-status.pending {
+  background: #fff7ea;
+  color: #e59e13;
+  border: 1.2px solid #ffe1ae;
+}
+.booking-status.cancelled {
+  background: #fff0f0;
+  color: #ea5959;
+  border: 1.2px solid #ffc7c7;
+}
+
+.booking-note {
+  margin-top: 7px;
+  font-size: 0.97rem;
+  color: #8a98b1;
+}
+
+.booking-created {
+  font-size: 0.93rem;
+  color: #b4bccc;
+  margin-top: 3px;
+}
+
+@media (max-width: 700px) {
+  .my-bookings-page {
+    max-width: 99vw;
+    padding: 14px 3vw 22px 3vw;
+  }
+  .booking-card {
+    flex-direction: column;
+    gap: 14px;
+    padding: 12px 6px;
+    align-items: stretch;
+  }
+  .booking-img {
+    width: 100%;
+    height: 160px;
+    border-radius: 10px;
+  }
+}
+.cancel-booking-btn {
+  margin-top: 12px;
+  padding: 8px 22px;
+  background: #f43f5e;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.18s;
+  font-size: 1rem;
+}
+.cancel-booking-btn:disabled {
+  background: #fbb6ce;
+  cursor: not-allowed;
+}
